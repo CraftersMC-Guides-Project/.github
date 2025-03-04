@@ -56,7 +56,6 @@ This project is brought to you by:
 - **Coder:** TechonTheDev (Discord: techonthedev)
 - **Coder:** Pg Network (Discord: pgnetwork01)
 - **Writer:** ieduoo (Discord: ieduoo)
-- **Writer:** NumberOne230564 (Discord: numero_uno_18)
 - **Advisor:** Aakash Gupta (Discord: aakashgupta12)
 
 ---
