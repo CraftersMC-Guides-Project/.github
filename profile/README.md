@@ -54,12 +54,12 @@ This static web package is powered by:
 This project is brought to you by:  
 - **Coder:** TGJASSIYT (Discord: jassi_xc)
 - **Coder:** TechonTheDev (Discord: techonthedev)
-- **Coder:** Pg Network (Discord: pgnetwork01)
+- **Coder/Data Skimmer:** Pg Network (Discord: pgnetwork01)
 - **Coder:** Dev. (Discord: dev.odf)
-- **Coder:** Dipanshu FF (Discord: dipanshuff)
+- **Coder/Data Skimmer:** Dipanshu FF (Discord: dipanshuff)
 - **Writer:** ieduoo (Discord: ieduoo)
-- **Advisor:** Aakash Gupta (Discord: aakashgupta12)
-- **Advisor:** C69P2W (Discord: samadop3116)
+- **Advisor/Data Skimmer:** Aakash Gupta (Discord: aakashgupta12)
+- **Advisor/Data Skimmer:** C69P2W (Discord: samadop3116)
 
 ---
 
